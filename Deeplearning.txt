@@ -1,0 +1,35 @@
+https://nttuan8.com/
+
+
+Code for series:
+https://github.com/nttuan8/DL_Tutorial
+
+Bai 0: Gi?i thi?u v? deep learning
+Bai 1: Linear regression va gradient descent
+Bai 2: Logistic regression
+Bai 3: Neural network
+Bai 4: Backpropagation
+Bai 5: Gi?i thi?u v? x? ly ?nh
+Bai 6: Convolutional neural network
+Bai 7: Gi?i thi?u keras va bai toan phan lo?i ?nh
+Bai 8: ?ng d?ng CNN cho o to t? lai
+Bai 9: Transfer learning va data augmentation
+Bai 10: Cac ki thu?t co b?n trong deep learning
+Bai 11: Object detection v?i faster-RCNN
+Bai 12: Image segmentation v?i U-Net
+Bai 13: Recurrent neural network
+Bai 14: Long short term memory
+Bai 15: ?ng d?ng them mo t? cho ?nh (image captioning)
+
+
+
+------------------------------------------------
+py -3.6 -m pip install pandas
+py -3.6 -m pip install sklearn
+---------------
+
+C:\> py      -m pip install pandas  %= one of Python on the system =%
+C:\> py -2   -m pip install pandas  %= one of Python 2 on the system =%
+C:\> py -2.7 -m pip install pandas  %= only for Python 2.7 =%
+C:\> py -3   -m pip install pandas  %= one of Python 3 on the system =%
+C:\> py -3.6 -m pip install pandas  %= only for Python 3.6 =%
